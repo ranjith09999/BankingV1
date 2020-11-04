@@ -1,0 +1,115 @@
+2020-11-01 15:13:44,664 [main] INFO ebanking - Url is open
+2020-11-01 15:13:44,818 [main] INFO ebanking - Entered Username
+2020-11-01 15:13:44,907 [main] INFO ebanking - Entered Password
+2020-11-01 15:13:49,823 [main] INFO ebanking - Button clicked
+2020-11-01 15:13:49,832 [main] INFO ebanking - Testcase passed
+2020-11-01 15:26:50,735 [main] INFO ebanking - Url is open
+2020-11-01 15:26:50,914 [main] INFO ebanking - Entered Username
+2020-11-01 15:26:51,009 [main] INFO ebanking - Entered Password
+2020-11-01 15:26:51,126 [main] INFO ebanking - Button clicked
+2020-11-01 15:28:42,609 [main] INFO ebanking - Url is open
+2020-11-01 15:28:42,814 [main] INFO ebanking - Entered Username
+2020-11-01 15:28:42,908 [main] INFO ebanking - Entered Password
+2020-11-01 15:28:42,993 [main] INFO ebanking - Button clicked
+2020-11-01 15:28:48,663 [main] ERROR ebanking - Testcase failed
+2020-11-01 16:23:45,045 [main] INFO ebanking - Url is open
+2020-11-01 16:23:45,244 [main] INFO ebanking - Entered Username
+2020-11-01 16:23:45,362 [main] INFO ebanking - Entered Password
+2020-11-01 16:23:46,373 [main] INFO ebanking - Button clicked
+2020-11-01 16:23:47,322 [main] ERROR ebanking - Testcase failed
+2020-11-01 16:28:36,514 [main] INFO ebanking - Url is open
+2020-11-01 16:28:36,667 [main] INFO ebanking - Entered Username
+2020-11-01 16:28:36,758 [main] INFO ebanking - Entered Password
+2020-11-01 16:28:37,578 [main] INFO ebanking - Button clicked
+2020-11-01 16:29:59,882 [main] INFO ebanking - Url is open
+2020-11-01 16:30:00,069 [main] INFO ebanking - Entered Username
+2020-11-01 16:30:00,253 [main] INFO ebanking - Entered Password
+2020-11-01 16:30:01,065 [main] INFO ebanking - Button clicked
+2020-11-01 16:32:17,087 [main] INFO ebanking - Url is open
+2020-11-01 16:32:17,271 [main] INFO ebanking - Entered Username
+2020-11-01 16:32:17,369 [main] INFO ebanking - Entered Password
+2020-11-01 16:32:17,473 [main] INFO ebanking - Button clicked
+2020-11-01 16:32:19,200 [main] ERROR ebanking - Testcase failed
+2020-11-01 16:35:17,591 [main] INFO ebanking - Url is open
+2020-11-01 16:35:17,772 [main] INFO ebanking - Entered Username
+2020-11-01 16:35:17,861 [main] INFO ebanking - Entered Password
+2020-11-01 16:35:17,962 [main] INFO ebanking - Button clicked
+2020-11-01 16:35:23,362 [main] INFO ebanking - Testcase passed
+2020-11-01 16:37:57,753 [main] INFO ebanking - Url is open
+2020-11-01 16:37:58,202 [main] INFO ebanking - Entered Username
+2020-11-01 16:37:58,323 [main] INFO ebanking - Entered Password
+2020-11-01 16:38:00,312 [main] INFO ebanking - Button clicked
+2020-11-01 16:38:01,057 [main] INFO ebanking - Testcase passed
+2020-11-01 16:43:29,810 [main] INFO ebanking - Url is open
+2020-11-01 16:43:29,972 [main] INFO ebanking - Entered Username
+2020-11-01 16:43:30,063 [main] INFO ebanking - Entered Password
+2020-11-01 16:43:31,183 [main] INFO ebanking - Button clicked
+2020-11-01 16:43:31,934 [main] INFO ebanking - Testcase passed
+2020-11-01 17:01:53,527 [main] INFO ebanking - Url is open
+2020-11-01 17:01:53,690 [main] INFO ebanking - Entered Username
+2020-11-01 17:01:53,778 [main] INFO ebanking - Entered Password
+2020-11-01 17:01:55,823 [main] INFO ebanking - Button clicked
+2020-11-01 17:01:55,838 [main] INFO ebanking - Testcase passed
+2020-11-01 17:51:34,096 [main] INFO ebanking - Url is open
+2020-11-01 17:51:34,251 [main] INFO ebanking - Entered Username
+2020-11-01 17:51:34,345 [main] INFO ebanking - Entered Password
+2020-11-01 17:51:38,952 [main] INFO ebanking - Button clicked
+2020-11-01 17:51:38,962 [main] INFO ebanking - Testcase passed
+2020-11-01 17:53:19,610 [main] INFO ebanking - Url is open
+2020-11-01 17:53:19,723 [main] INFO ebanking - Entered Username
+2020-11-01 17:53:19,777 [main] INFO ebanking - Entered Password
+2020-11-01 17:53:19,949 [main] INFO ebanking - Button clicked
+2020-11-01 20:52:13,401 [main] INFO ebanking - Url is open
+2020-11-01 20:52:13,554 [main] INFO ebanking - Entered Username
+2020-11-01 20:52:13,644 [main] INFO ebanking - Entered Password
+2020-11-01 20:52:24,882 [main] INFO ebanking - Button clicked
+2020-11-01 20:52:24,891 [main] INFO ebanking - Testcase passed
+2020-11-02 22:46:11,568 [main] INFO ebanking - Url is open
+2020-11-02 22:46:11,723 [main] INFO ebanking - Entered Username
+2020-11-02 22:46:11,818 [main] INFO ebanking - Entered Password
+2020-11-02 22:46:23,568 [main] INFO ebanking - Button clicked
+2020-11-02 22:46:23,584 [main] INFO ebanking - Testcase passed
+2020-11-02 22:49:36,334 [main] INFO ebanking - Url is open
+2020-11-02 22:49:36,483 [main] INFO ebanking - Entered Username
+2020-11-02 22:49:36,569 [main] INFO ebanking - Entered Password
+2020-11-02 22:49:42,754 [main] INFO ebanking - Button clicked
+2020-11-02 22:49:42,771 [main] ERROR ebanking - Testcase failed
+2020-11-02 23:02:40,311 [main] INFO ebanking - Url is open
+2020-11-02 23:02:40,476 [main] INFO ebanking - Entered Username
+2020-11-02 23:02:40,567 [main] INFO ebanking - Entered Password
+2020-11-02 23:02:46,696 [main] INFO ebanking - Button clicked
+2020-11-02 23:02:47,067 [main] ERROR ebanking - Testcase failed
+2020-11-03 00:14:10,941 [main] INFO ebanking - user name provided
+2020-11-03 00:14:11,166 [main] INFO ebanking - password provided
+2020-11-03 00:14:16,170 [main] INFO ebanking - Login button clicked
+2020-11-03 00:23:26,176 [main] INFO ebanking - user name provided
+2020-11-03 00:23:26,373 [main] INFO ebanking - password provided
+2020-11-03 00:23:30,715 [main] INFO ebanking - Login button clicked
+2020-11-03 00:24:44,320 [main] INFO ebanking - user name provided
+2020-11-03 00:24:44,457 [main] INFO ebanking - password provided
+2020-11-03 00:24:46,674 [main] INFO ebanking - Login button clicked
+2020-11-03 00:24:50,236 [main] INFO ebanking - user name provided
+2020-11-03 00:24:50,554 [main] INFO ebanking - password provided
+2020-11-03 00:24:51,203 [main] INFO ebanking - Login button clicked
+2020-11-03 00:24:53,779 [main] INFO ebanking - user name provided
+2020-11-03 00:24:53,916 [main] INFO ebanking - password provided
+2020-11-03 00:24:55,207 [main] INFO ebanking - Login button clicked
+2020-11-03 00:27:05,101 [main] INFO ebanking - user name provided
+2020-11-03 00:27:05,251 [main] INFO ebanking - password provided
+2020-11-03 00:27:07,907 [main] INFO ebanking - Login button clicked
+2020-11-03 14:12:30,346 [main] INFO ebanking - providing customer details....
+2020-11-03 15:01:37,057 [main] INFO ebanking - Url is open
+2020-11-03 15:01:37,225 [main] INFO ebanking - Entered Username
+2020-11-03 15:01:37,325 [main] INFO ebanking - Entered Password
+2020-11-03 15:01:43,343 [main] INFO ebanking - Button clicked
+2020-11-03 15:01:43,354 [main] INFO ebanking - Testcase passed
+2020-11-03 16:53:16,596 [main] INFO ebanking - Url is open
+2020-11-03 16:53:16,862 [main] INFO ebanking - Entered Username
+2020-11-03 16:53:16,977 [main] INFO ebanking - Entered Password
+2020-11-03 16:53:20,704 [main] INFO ebanking - Button clicked
+2020-11-03 16:53:20,721 [main] INFO ebanking - Testcase passed
+2020-11-03 17:00:32,507 [main] INFO ebanking - Url is open
+2020-11-03 17:00:32,744 [main] INFO ebanking - Entered Username
+2020-11-03 17:00:32,852 [main] INFO ebanking - Entered Password
+2020-11-03 17:00:37,587 [main] INFO ebanking - Button clicked
+2020-11-03 17:00:37,607 [main] INFO ebanking - Testcase passed
