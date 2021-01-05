@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-11-03T08:41:35Z" name="BankingV1" finished-at="2020-11-03T08:42:50Z" duration-ms="75490">
+  <suite started-at="2021-01-05T04:43:20Z" name="BankingV1" finished-at="2021-01-05T04:43:38Z" duration-ms="17984">
     <groups>
     </groups>
-    <test started-at="2020-11-03T08:41:35Z" name="Banking" finished-at="2020-11-03T08:42:50Z" duration-ms="75490">
-      <class name="com.bankingV1.testcase.TC_AddCustomer_003">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.bankingV1.testcase.TC_AddCustomer_003@68f4865]" started-at="2020-11-03T08:41:35Z" name="setup" finished-at="2020-11-03T08:42:13Z" duration-ms="37865" status="PASS">
+    <test started-at="2021-01-05T04:43:20Z" name="Banking" finished-at="2021-01-05T04:43:38Z" duration-ms="17984">
+      <class name="com.bankingV1.testcase.TC_LoginTest_001">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.bankingV1.testcase.TC_LoginTest_001@6aa61224]" started-at="2021-01-05T04:43:21Z" name="setup" finished-at="2021-01-05T04:43:36Z" duration-ms="15084" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,48 +18,33 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="addCustomer()[pri:0, instance:com.bankingV1.testcase.TC_AddCustomer_003@68f4865]" started-at="2020-11-03T08:42:13Z" name="addCustomer" finished-at="2020-11-03T08:42:46Z" duration-ms="33181" status="FAIL">
-          <exception class="org.openqa.selenium.NoSuchElementException">
+        <test-method signature="loginTest()[pri:0, instance:com.bankingV1.testcase.TC_LoginTest_001@6aa61224]" started-at="2021-01-05T04:43:36Z" name="loginTest" finished-at="2021-01-05T04:43:38Z" duration-ms="2197" status="FAIL">
+          <exception class="org.openqa.selenium.UnhandledAlertException">
             <message>
-              <![CDATA[no such element: Unable to locate element: {"method":"css selector","selector":"*[name='password']"}
-  (Session info: chrome=86.0.4240.111)
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+              <![CDATA[unexpected alert open: {Alert text : User is not valid}
+  (Session info: chrome=87.0.4280.88): User is not valid
 Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
-System info: host: 'IN-5CG0377HDH', ip: '10.252.192.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.9'
+System info: host: 'IN-5CG0377HDH', ip: '10.252.192.126', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.9.1'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\RSTEPH~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:65424}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: 1243d36ca978de3d78d9702ff74d2421
-*** Element info: {Using=name, value=password}]]>
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.88, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\RSTEPH~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52480}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: f4ef8ca27c90d2f318e17396b8270728]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"*[name='password']"}
-  (Session info: chrome=86.0.4240.111)
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+              <![CDATA[org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : User is not valid}
+  (Session info: chrome=87.0.4280.88): User is not valid
 Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
-System info: host: 'IN-5CG0377HDH', ip: '10.252.192.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.9'
+System info: host: 'IN-5CG0377HDH', ip: '10.252.192.126', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.9.1'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\RSTEPH~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:65424}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: 1243d36ca978de3d78d9702ff74d2421
-*** Element info: {Using=name, value=password}
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
-at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.88, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\RSTEPH~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52480}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: f4ef8ca27c90d2f318e17396b8270728
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:120)
 at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
 at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
 at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
 at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:317)
-at org.openqa.selenium.remote.RemoteWebDriver.findElementByName(RemoteWebDriver.java:395)
-at org.openqa.selenium.By$ByName.findElement(By.java:284)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:309)
-at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
-at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-at com.sun.proxy.$Proxy15.sendKeys(Unknown Source)
-at com.bankingV1.pageobjects.AddCustomer.custpassword(AddCustomer.java:113)
-at com.bankingV1.testcase.TC_AddCustomer_003.addCustomer(TC_AddCustomer_003.java:41)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+at org.openqa.selenium.remote.RemoteWebDriver.getTitle(RemoteWebDriver.java:275)
+at com.bankingV1.testcase.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:26)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -87,15 +72,15 @@ at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 ]]>
             </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          </exception> <!-- org.openqa.selenium.UnhandledAlertException -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- addCustomer -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bankingV1.testcase.TC_AddCustomer_003@68f4865]" started-at="2020-11-03T08:42:46Z" name="tearDown" finished-at="2020-11-03T08:42:50Z" duration-ms="4132" status="PASS">
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bankingV1.testcase.TC_LoginTest_001@6aa61224]" started-at="2021-01-05T04:43:38Z" name="tearDown" finished-at="2021-01-05T04:43:38Z" duration-ms="199" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.bankingV1.testcase.TC_AddCustomer_003 -->
+      </class> <!-- com.bankingV1.testcase.TC_LoginTest_001 -->
     </test> <!-- Banking -->
   </suite> <!-- BankingV1 -->
 </testng-results>

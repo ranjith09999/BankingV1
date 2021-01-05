@@ -114,3 +114,7 @@
 2020-11-03 17:00:37,587 [main] INFO ebanking - Button clicked
 2020-11-03 17:00:37,607 [main] INFO ebanking - Testcase passed
 2020-11-05 22:49:38,149 [main] INFO ebanking - Url is open
+2021-01-05 10:13:36,350 [main] INFO ebanking - Url is open
+2021-01-05 10:13:36,647 [main] INFO ebanking - Entered Username
+2021-01-05 10:13:36,833 [main] INFO ebanking - Entered Password
+2021-01-05 10:13:38,461 [main] INFO ebanking - Button clicked
