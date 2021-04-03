@@ -118,3 +118,12 @@
 2021-01-05 10:13:36,647 [main] INFO ebanking - Entered Username
 2021-01-05 10:13:36,833 [main] INFO ebanking - Entered Password
 2021-01-05 10:13:38,461 [main] INFO ebanking - Button clicked
+2021-04-03 13:53:44,857 [main] INFO ebanking - Url is open
+2021-04-03 13:53:45,223 [main] INFO ebanking - Entered Username
+2021-04-03 13:53:45,409 [main] INFO ebanking - Entered Password
+2021-04-03 13:53:46,249 [main] INFO ebanking - Button clicked
+2021-04-03 13:56:01,404 [main] INFO ebanking - Url is open
+2021-04-03 13:56:01,857 [main] INFO ebanking - Entered Username
+2021-04-03 13:56:01,985 [main] INFO ebanking - Entered Password
+2021-04-03 13:56:04,432 [main] INFO ebanking - Button clicked
+2021-04-03 13:56:04,448 [main] INFO ebanking - Testcase passed
