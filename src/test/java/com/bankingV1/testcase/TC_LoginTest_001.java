@@ -26,12 +26,12 @@ public class TC_LoginTest_001 extends BaseClass {
 		if(driver.getTitle().equals(Title)){
 
 			logger.info("Testcase passed");
-			captureScreen(driver, "loginTest");
+			captureScreen(driver, "loginTestPassed");
 			Assert.assertTrue(true);
 			
 
 		} else{
-			captureScreen(driver, "loginTest");
+			captureScreen(driver, "loginTestFailed");
 			logger.error("Testcase failed");
 			Assert.assertTrue(false);
 			
