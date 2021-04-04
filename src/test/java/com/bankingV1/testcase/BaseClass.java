@@ -92,7 +92,7 @@ public void Emailmethod(String tname) {
 		
 
 		final String username = "rstephen@dxc.com";
-		final String Password = "131522@Ran";
+		final String Password = "";
 		String BccRecipient = "ranjith.stephen@umusic.com";
 		String From = "rstephen@dxc.com";
 		Properties prop = System.getProperties();
